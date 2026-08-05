@@ -60,8 +60,8 @@ We encourage the submission of papers on topics within the areas listed below. S
 ### Submission Guidelines
 
 {% capture guidelines_content %}
-- **Format:** Submissions must be a PDF file following the [IEEE Computer Society Proceedings Manuscript Formatting Guidelines and Templates](https://www.ieee.org/conferences/publishing/templates).
-- **Length:** Papers should be at most X pages, not including the appendix (limited to Y pages), GenAI disclosure, and references. All submissions must include a GenAI disclosure statement.
+- **Format:** Submissions must be a PDF file in IEEE 2-column format, following the IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see [formatting instructions](https://www.ieee.org/conferences/publishing/templates.html)).
+- **Paper types:** We accept both **full papers** (up to 10 pages) and **short papers** (up to 5 pages). References are counted within the page limit. A **GenAI disclosure statement is required** and does not count toward the page limit.
 - **Review:** This workshop uses double-blind review. Author names and affiliations must be removed from the submission. Papers that are not properly anonymized will be desk-rejected without review.
 - **Presentation:** At least one author of each accepted paper must register and present the work in person at Phoenix, AZ, USA.
 {% endcapture %}
@@ -76,10 +76,10 @@ All submissions must be made through the [Cyberchair submission portal](https://
 
 ## Important Dates
 
-- **Paper submission deadline:** TBD
-- **Notification of acceptance:** TBD
-- **Camera-ready deadline:** TBD
-- **Workshop date:** TBD
+- **Paper submission deadline:** October 29, 2026
+- **Notification of acceptance:** November 16, 2026
+- **Camera-ready deadline:** November 23, 2026
+- **Workshop date:** TBD (between December 14–17, 2026)
 
 ## Invited Speakers
 
