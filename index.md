@@ -76,6 +76,8 @@ All submissions must be made through the [Cyberchair submission portal](https://
 
 ## Important Dates
 
+All deadlines are at 11:59 PM [Anywhere on Earth (AoE)](https://www.timeanddate.com/time/zones/aoe).
+
 - **Paper submission deadline:** October 29, 2026
 - **Notification of acceptance:** November 16, 2026
 - **Camera-ready deadline:** November 23, 2026
