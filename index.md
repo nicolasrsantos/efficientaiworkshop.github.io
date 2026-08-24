@@ -8,7 +8,7 @@ The rapid growth of AI, driven by large datasets and foundation models, has brou
 
 ## Call for Papers
 
-We invite original, unpublished research papers on the challenges and advances in data and model efficiency for scalable AI. Accepted papers will be presented as posters, with a subset selected for oral presentations, and published in the IEEE BigData 2026 Workshop Proceedings by the IEEE Computer Society Press. All submissions are reviewed through a double-blind process by members of the program committee.
+We invite original, unpublished research papers on the challenges and advances in data and model efficiency for scalable AI. Accepted papers will be presented as posters, with a subset selected for oral presentations, and published in the IEEE BigData 2026 Workshop Proceedings by the IEEE Computer Society Press. All submissions are reviewed through a single-blind process by members of the program committee.
 
 {% capture topics_content %}
 We encourage the submission of papers on topics within the areas listed below. Submissions are not restricted to these specific topics, and we welcome any work that aligns with the general goals of the workshop.
@@ -61,8 +61,8 @@ We encourage the submission of papers on topics within the areas listed below. S
 
 {% capture guidelines_content %}
 - **Format:** Submissions must be a PDF file in IEEE 2-column format, following the IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see [formatting instructions](https://www.ieee.org/conferences/publishing/templates.html)).
-- **Paper types:** We accept both **full papers** (up to 10 pages) and **short papers** (up to 5 pages). References are counted within the page limit. A **GenAI disclosure statement is required** and does not count toward the page limit.
-- **Review:** This workshop uses double-blind review. Author names and affiliations must be removed from the submission. Papers that are not properly anonymized will be desk-rejected without review.
+- **Paper types:** We accept both **full papers** (up to 10 pages) and **short papers** (up to 5 pages). References are counted within the page limit.
+- **Review:** This workshop uses single-blind review. Author names and affiliations must be included in the submission.
 - **Presentation:** At least one author of each accepted paper must register and present the work in person at Phoenix, AZ, USA.
 {% endcapture %}
 
